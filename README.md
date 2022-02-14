@@ -1,5 +1,5 @@
 # Algorithms-Implementations
-Collection of algorithms and data structures I've implemented on laboratory classes.
+Collection of simple algorithms and data structures I've implemented on laboratory classes.
 ## List of projects and their properties:
 ### Hashtables
 Count the number of occurences of each word in the text given in the input. Store these numbers in a hash table: the word should be interpreted as a key (type string), and the number of occurences as a value (type int). Use the method of collision resolving suggested by the teacher.
