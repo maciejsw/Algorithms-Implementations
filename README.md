@@ -18,3 +18,14 @@ Your program should support the following operations:
 - m - write the key of the minimum element in the tree,
 - M - write the key of the maximum element in the tree,
 - q - quit the program.
+### Heap
+Implement a max/min heap and the following operations:
+- \+ v (add a number v to the heap)
+- - (remove the maximum from the max heap (minimum from the min heap respectively) and write it on the screen)
+- p (write all elements of the heap in the order in which they are stored in an array)
+- r n v1 ...vn (remove all elements from the heap and create a heap out of n new elements, of the values given by v1 ...vn)
+- s (change the orientation of the heap – from max to min or from min to max; s operation can be requested multiple times)
+- q (exit the program)
+Additional remarks:
+Operation 'r' is not the same as a sequence of '+' operations.
+If both children are equal the child of the lesser index is swapped.
