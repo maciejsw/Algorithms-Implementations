@@ -21,7 +21,7 @@ Your program should support the following operations:
 ### Heap
 Implement a max/min heap and the following operations:
 - \+ v (add a number v to the heap)
-- - (remove the maximum from the max heap (minimum from the min heap respectively) and write it on the screen)
+- \- (remove the maximum from the max heap (minimum from the min heap respectively) and write it on the screen)
 - p (write all elements of the heap in the order in which they are stored in an array)
 - r n v1 ...vn (remove all elements from the heap and create a heap out of n new elements, of the values given by v1 ...vn)
 - s (change the orientation of the heap – from max to min or from min to max; s operation can be requested multiple times)
