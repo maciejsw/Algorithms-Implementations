@@ -38,3 +38,11 @@ Sort a given set of large integers (with arbitrarily large number of digits).
 Input:
 - In the first line: the number of elements of the input set (N).
 - In the next N lines: the numbers to sort.
+### Stack
+Implement a LIFO stack, using a linked list implementation. Every element of the list should contain a key of type int (signed integer), and some pointers that are required by your stack implementation.
+Your program should support the following operations:
+- i - insert (push) a new element to your stack,
+- d - delete (pop) an element from your stack and print its key on the screen (if underflow occurs, the '!' character should be printed),
+- g - get an element of the list from given position and print its key on the screen (if the given index is greater or equal the size of your list, you should print the '?' character),
+- q - quit the program.
+The element at the bottom of the stack should be interpreted as an element on position 0, the second element is on position 1, etc. The top element of the stack is at index size-1.
