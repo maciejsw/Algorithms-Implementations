@@ -26,6 +26,7 @@ Implement a max/min heap and the following operations:
 - r n v1 ...vn (remove all elements from the heap and create a heap out of n new elements, of the values given by v1 ...vn)
 - s (change the orientation of the heap – from max to min or from min to max; s operation can be requested multiple times)
 - q (exit the program)
+
 Additional remarks:
 Operation 'r' is not the same as a sequence of '+' operations.
 If both children are equal the child of the lesser index is swapped.
