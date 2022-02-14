@@ -28,5 +28,5 @@ Implement a max/min heap and the following operations:
 - q (exit the program)
 
 Additional remarks:
-Operation 'r' is not the same as a sequence of '+' operations.
-If both children are equal the child of the lesser index is swapped.
+- Operation 'r' is not the same as a sequence of '+' operations.
+- If both children are equal the child of the lesser index is swapped.
