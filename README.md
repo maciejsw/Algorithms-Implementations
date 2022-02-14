@@ -36,6 +36,5 @@ Additional remarks:
 Sort a given set of large integers (with arbitrarily large number of digits).
 
 Input:
-
 - In the first line: the number of elements of the input set (N).
 - In the next N lines: the numbers to sort.
