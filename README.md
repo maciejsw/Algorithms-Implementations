@@ -32,3 +32,10 @@ Implement a max/min heap and the following operations:
 Additional remarks:
 - Operation 'r' is not the same as a sequence of '+' operations.
 - If both children are equal the child of the lesser index is swapped.
+### Quick-sort for big integers
+Sort a given set of large integers (with arbitrarily large number of digits).
+
+Input:
+
+- In the first line: the number of elements of the input set (N).
+- In the next N lines: the numbers to sort.
